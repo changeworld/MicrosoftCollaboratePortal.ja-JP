@@ -6,12 +6,12 @@ ms.author: mimcco
 ms.date: 01/03/2018
 keywords: Microsoft Connect の登録
 hide_comments: true
-ms.openlocfilehash: 610e69f7ef449d92925d931740ba5c42c5e5107d
-ms.sourcegitcommit: 8ae2ead732e03d8a9865797bb9f40818780036e9
+ms.openlocfilehash: 39a3557638f9b3eb6bf240cb8d3e6e2508c1c12c
+ms.sourcegitcommit: e9959c14281c830d30c46a921c44f745a3042af2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/16/2018
-ms.locfileid: "43054684"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "44385295"
 ---
 # <a name="microsoft-connect-has-been-retired"></a>Microsoft Connect は廃止されました
 Microsoft Connect ポータルにアクセスしようとしたため、このページに達しました。 ほぼ 10 年後に、Microsoft Connect は新しいツールと Microsoft と連絡を取ることができるように引き続きサービスを優先して破棄されました。 Active の Connect プログラムのメンバーの場合は、プログラムが終了またはこれらのツールやサービスのいずれかに移動します。 次の状態と次のステップを取得するプログラムを特定します。
@@ -60,12 +60,6 @@ Office PIPC プログラムは、現在のホスト[Microsoft の共同作業](h
 
 ### <a name="fast-connect-site-id-898"></a>高速 (接続サイト ID 898)
 高速のプログラムは、現在のホスト[Microsoft の共同作業](https://aka.ms/collaborate)します。 お客様のプログラムのメンバーシップまたは共同作業へのアクセスに関する質問がある場合にお問い合わせくださいfastcsrv@microsoft.comします。
-
-### <a name="warp-connect-site-id-1388"></a>WARP (接続サイト ID 1388)
-WARP プログラムは、現在のホスト[Microsoft の共同作業](https://aka.ms/collaborate)します。 お客様のプログラムのメンバーシップまたは共同作業へのアクセスに関する質問がある場合にお問い合わせくださいwarphelp@microsoft.comします。
-
-### <a name="ewarp-connect-site-id-1398"></a>eWARP (接続サイト ID 1398)
-EWARP プログラムは、現在のホスト[Microsoft の共同作業](https://aka.ms/collaborate)します。 お客様のプログラムのメンバーシップまたは共同作業へのアクセスに関する質問がある場合にお問い合わせくださいmsews@microsoft.comします。
 
 ### <a name="microsoft-office-connect-site-id-160"></a>Microsoft Office (接続サイト ID 160)
 Microsoft Office プログラムは、現在のホスト[Microsoft の共同作業](https://aka.ms/collaborate)します。 お客様のプログラムのメンバーシップまたは共同作業へのアクセスに関する質問がある場合にお問い合わせくださいofficeconnectteam@microsoft.comします。
