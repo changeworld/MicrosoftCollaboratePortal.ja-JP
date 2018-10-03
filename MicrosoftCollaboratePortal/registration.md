@@ -5,12 +5,12 @@ author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
 keywords: パートナーのアクセス、アクセス許可、登録、登録、オンボード、パートナーからのフィードバック、ビルドのダウンロード、ダウンロードの仕様、バグ、Microsoft Connect、SysDev バグ、デベロッパー センターのバグ
-ms.openlocfilehash: b58468950a70c17ebb3959d4b3bbd30b4cf862a0
-ms.sourcegitcommit: 8ae2ead732e03d8a9865797bb9f40818780036e9
+ms.openlocfilehash: 49bfb7ffd58719a61146b6c67f333481e55df44d
+ms.sourcegitcommit: 7fd7eb31172da66cd9c7588fe0ee0d5c2068f02b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/16/2018
-ms.locfileid: "43055110"
+ms.lasthandoff: 09/29/2018
+ms.locfileid: "47454182"
 ---
 # <a name="register-with-microsoft-collaborate"></a>マイクロソフトの登録が共同作業します。
 
@@ -44,7 +44,7 @@ Microsoft の共同作業、プログラムでは、登録が必要です。 デ
 会社のアカウントを作成するときをお勧めこれらのガイドラインに従うことは、複数のユーザーがアカウントにアクセスする必要がある場合に特にです。
 
 > [!IMPORTANT]
-> デベロッパー センター アカウントにアクセスする複数のユーザーを許可するのには、個々 のユーザーにロールを割り当てる Azure Active Directory を使用してお勧めします。 各ユーザー各自のサインインして、デベロッパー センター アカウントにアクセスできる、Azure AD の資格情報。 詳細については、次を参照してください。[アカウント ユーザーを管理する](/windows/uwp/publish/manage-account-users.md)します。
+> デベロッパー センター アカウントにアクセスする複数のユーザーを許可するのには、個々 のユーザーにロールを割り当てる Azure Active Directory を使用してお勧めします。 各ユーザー各自のサインインして、デベロッパー センター アカウントにアクセスできる、Azure AD の資格情報。 詳細については、次を参照してください。[アカウント ユーザーを管理する](/windows/uwp/publish/manage-account-users)します。
 
 -   既にに属していないか、別のユーザーなどの電子メール アドレスを使用して Microsoft アカウントを作成MyCompany_DevCenter@outlook.comです。 いないことができます、会社のドメインで電子メール アドレスを使用する会社が既に Azure AD を使用している場合に特にです。
 -   後でアプリの開発用の Windows プログラムに参加し、デベロッパー センター アカウントを再利用する場合は、お勧め Windows プログラムを最初に登録し、Microsoft の共同作業に参加すること。 それ以外の場合は、これらのプログラムの個別のアカウントを作成する必要があります。
