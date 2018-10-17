@@ -5,18 +5,20 @@ author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
 keywords: 共同作業のアクセス許可をユーザー、共同作業のセキュリティを管理するユーザーを削除するユーザーを追加する契約、Microsoft Connect では、SysDev バグ、デベロッパー センターのバグ
-ms.openlocfilehash: 98d68accdb1279ef4b9d565eb9deeb05e7afcae2
-ms.sourcegitcommit: 8ae2ead732e03d8a9865797bb9f40818780036e9
+ms.openlocfilehash: f0fd542774c4dde510d74f0450b6fd48dc6ff596
+ms.sourcegitcommit: 7a02d4cb2fd7824133462c0bed1234cbb51c2611
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/16/2018
-ms.locfileid: "43054681"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "49307517"
 ---
 # <a name="managing-users-in-ms-collaborate"></a>ミリ秒で管理ユーザーが共同作業します。
 
 Microsoft の共同作業システムを使用して**契約**ポータルのロール権限を定義します。  非常に単純には、engagement の参加要素の場合は、engagement のメタデータ、コンテンツおよびフィードバックがエンゲージメントに関連付けられているを表示します。  Engagement 内で追加のアクセス許可は、ロールとして定義されます。  ロールに追加した場合は、プログラム/エンゲージメントの特定の側面を編集できます。  Engagement のメンバーでない場合は、engagement またはそのアイテムの表示されません。
 
 Microsoft ユーザーのみには、この時点で、プログラムおよび契約を管理できます。  Microsoft 以外のユーザーおよびパワー ユーザーを参加要素を使用できます。
+
+## <a name="roles-in-collaborate"></a>ロールの共同作業します。
 
 MS の共同作業では、次のメンバーシップ ロールがあります。
 
