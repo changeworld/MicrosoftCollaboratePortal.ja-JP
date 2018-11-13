@@ -5,12 +5,12 @@ author: ikhapova
 ms.author: ikhapova
 ms.date: 08/02/2018
 keywords: troubeshooting、問題、登録、アクセス、アカウント、フィードバック
-ms.openlocfilehash: 3661fe7f9e1f94befd1a1e581e90c477443b25ba
-ms.sourcegitcommit: f474af990423033a94fd1c86101453a170523d4b
+ms.openlocfilehash: 460a8b3e44e294de6ce3c93b6496e5f0caf9d76e
+ms.sourcegitcommit: 13d67929e8cb9c0150596f046502ea046b0c4332
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2018
-ms.locfileid: "43055232"
+ms.lasthandoff: 11/12/2018
+ms.locfileid: "51561533"
 ---
 # <a name="how-to-troubleshoot-common-issues"></a>一般的な問題をトラブルシューティングする方法
 このページは、一般的な問題のトラブルシューティング ガイドを提供します。
@@ -122,7 +122,7 @@ Microsoft が電子メール ドメインが Azure AD で構成されている�
 ## <a name="access"></a>アクセス
 
 ### <a name="user-cannot-see-packages-andor-engagements-heshe-has-access-to"></a>ユーザーがパッケージを表示できませんまたは契約へのアクセスを持って
-ほとんどのユーザーは、デベロッパー センター内の 1 つのアカウントを 1 つの AAD テナントに属しています。 ユーザーは、いくつかの AAD テナントやデベロッパー センターでのアカウントである可能性があります必要がある手動選択リソースへのアクセスを取得するには、特定の AAD テナントまたはアカウントします。
+ほとんどのユーザーは、デベロッパー センター内の 1 つのアカウントを 1 つの AAD テナントに属しています。 いくつかの AAD テナントやデベロッパー センターでのアカウント内に存在する、ユーザーは、リソースへのアクセスを取得するには、特定の AAD テナントまたはアカウントを手動で選択する必要があります。
 
 #### <a name="how-to-select-an-aad-tenant"></a>AAD テナントを選択する方法
 画面の右上隅にバッジ アイコンをクリックします。 1 つ以上の AAD テナント内に存在する場合、使用可能な AAD テナントの一覧が表示されます。 
