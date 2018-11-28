@@ -6,12 +6,12 @@ ms.author: mimcco
 ms.date: 01/03/2018
 keywords: Microsoft Connect の登録
 hide_comments: true
-ms.openlocfilehash: f49deaf11d8d51affc63ad1ca0c4272221d696b1
-ms.sourcegitcommit: 001cc92475ec1949ed50307cf6ce98de2789fbbe
+ms.openlocfilehash: 3be113e91d466367d9791a16b2f59285748fc6a5
+ms.sourcegitcommit: 07b7a293a1e652c5ff83dae8cd771148540b4e90
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51220153"
+ms.lasthandoff: 11/28/2018
+ms.locfileid: "52459699"
 ---
 # <a name="microsoft-connect-has-been-retired"></a>Microsoft Connect は廃止されました
 
@@ -19,7 +19,7 @@ Microsoft Connect ポータルにアクセスしようとしたため、この�
 
 ## <a name="microsoft-download-center"></a>Microsoft ダウンロード センター
 
-参照してください[ダウンロード センター](https://www.microsoft.com/download) previoulsy Connect で使用可能なパッケージを探している場合。
+参照してください[ダウンロード センター](https://www.microsoft.com/download) previoulsy Connect で提供されていたパッケージを探している場合。
 
 ## <a name="microsoft-docs"></a>Microsoft Docs
 
@@ -67,8 +67,5 @@ Dynamics 365 for Finance and Operations、Enterprise Edition のチームが Dyn
 ### <a name="services-connection-connect-site-id-1067"></a>サービスの接続 (接続サイト ID 1067)
 お問い合わせください[ scrmteam@microsoft.com ](mailto:scrmteam@microsoft.com)プログラムの状態。
 
-### <a name="surface-connect-site-id-1396"></a>画面 (接続サイト ID 1396)
-お問い合わせください[ USSurface@microsoft.com ](mailto:USSurface@microsoft.com)プログラムの状態。
-
 ### <a name="microsoft-playready-support"></a>Microsoft PlayReady のサポート
-電子メールでライセンスを付与された企業の Microsoft PlayReady のサポートが提供されているようになりました。 質問をお送りください、 [ AskDRM@microsoft.com](mailto:AskDRM@microsoft.com)します。 さらに、あるドキュメントを参照してください[Microsoft Docs](https://docs.microsoft.com/playready)と[PlayReady テスト サーバー](https://test.playready.microsoft.com/)します。
+電子メールでライセンスを付与された企業の Microsoft PlayReady のサポートが提供されているようになりました。 質問をお送りください、 [ AskDRM@microsoft.com](mailto:AskDRM@microsoft.com)します。 さらに、あるドキュメントを参照してください https://docs.microsoft.com/playreadyと[PlayReady テスト サーバー](https://test.playready.microsoft.com/)します。
