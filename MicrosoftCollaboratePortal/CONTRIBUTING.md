@@ -5,20 +5,20 @@
 > [!IMPORTANT] 
 > Docs.microsoft.com に公開されるすべてのリポジトリを採用して、 [Microsoft オープン ソース倫理規定](https://opensource.microsoft.com/codeofconduct/)します。 詳細については、次を参照してください。、 [FAQ の実施コード](https://opensource.microsoft.com/codeofconduct/faq/)にお問い合わせくださいまたは[ opencode@microsoft.com ](mailto:opencode@microsoft.com)質問またはコメント。<br> 
 >
-> 軽微な修正またはパブリック リポジトリでドキュメントとコードの例に説明の対象は、 [docs.microsoft.com Terms of Use](https://docs.microsoft.com/legal/termsofuse)します。 新規または大幅な変更は、Microsoft の従業員でない場合は、pull request にオンライン貢献ライセンス契約 (CLA) を送信するように求めるコメントが生成されます。 pull request を許可する前に、オンライン フォームを完了する必要があります。
+> 軽微な修正またはパブリック リポジトリでドキュメントとコードの例に説明の対象は、 [docs.microsoft.com Terms of Use](https://docs.microsoft.com/legal/termsofuse)します。 新規または大幅な変更は、Microsoft の従業員でない場合は、オンライン貢献ライセンス契約 (CLA) を送信するように求めるプル要求にコメントが生成されます。 プル要求を許可する前に、オンライン フォームを完了する必要があります。
 
 ## <a name="how-to-make-a-change"></a>変更する方法
 
 | ドキュメントへの変更を提案するには、次の手順に従います。 | スクリーン ショット |
 | :------------------- | :--------: |
-| 1 docs.microsoft.com のページを表示する場合にクリックして、ページの右上隅の **編集** ボタンをクリックします。 対応するマークダウン ソース ファイル [GitHub リポジトリ](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal) にリダイレクトします。 | ![[編集] ボタン](images/edit_button.jpg) |
-| 2 GitHub アカウントがない場合は上にある**サインアップ**をクリックし、新しいアカウントを作成します。 | ![サインアップ ボタン](images/signup-for-github-button.PNG)|
-| 3 表示された対応する GitHub ページの編集 (鉛筆のアイコン) をクリックします。 | ![鉛筆ボタン](images/pencil_button.jpg)|
-| 4 ファイルの編集 ウィンドウでは、コンテンツを変更するのに Markdown 言語を使用します。 ([ Markdown で記述する方法。](https://help.github.com/articles/basic-writing-and-formatting-syntax/))| ![ファイルを編集します。](images/edit-in-github.png)|
-| 5 想定どおりに表示書式設定を確認する変更のプレビューをクリックします。 | ![変更のプレビュー](images/edit-in-github.png)|
-| 6 ページの一番下までスクロールし、"Propose file change" をクリックすると表示される "Comparing changes" ページで、変更を確認することができます。 変更を送信する "Create pull request" ボタンをクリックします。 この時点で完了です。 | ![変更を提案します。](images/propose.jpg)|
+| 1。Docs.microsoft.com のページを表示する場合にクリックして、**編集**ページの右上隅のボタンをクリックします。  内の対応するマークダウン ソース ファイルにリダイレクトする、 [GitHub リポジトリ](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal)します。 | ![[編集] ボタン](images/edit_button.jpg) |
+| 2 です。GitHub アカウントがない場合はクリックして**サインアップ**上にあるし、新しいアカウントを作成します。 | ![サインアップ ボタン](images/signup-for-github-button.PNG)|
+| 3。表示される対応する GitHub ページ、(鉛筆のアイコン) の編集 をクリックします。 | ![鉛筆ボタン](images/pencil_button.jpg)|
+| 4。ファイルの編集 ウィンドウでは、コンテンツを変更するのにマークダウンの言語を使用します。 ([の markdown を記述する方法。](https://help.github.com/articles/basic-writing-and-formatting-syntax/))| ![ファイルを編集します。](images/edit-in-github.png)|
+| 5想定どおりに表示書式設定を確認する変更のプレビューをクリックします。 | ![変更のプレビュー](images/edit-in-github.png)|
+| 6ページの一番下までスクロールし、"Propose file change" をクリックすると表示される "Comparing changes" ページで、変更を確認することができます。 変更を送信する "Create pull request" ボタンをクリックします。 この時点で完了です。 | ![変更を提案します。](images/propose.jpg)|
 
-Pull request を使用して変更を送信した後は、ドキュメント チームのメンバーによって確認されます。 更新をパブリッシュする場合は、要求が受け入れられる[ https://docs.microsoft.com/collaborate](https://docs.microsoft.com/collaborate)必要があります。
+Pull request を使用して変更を送信した後は、ドキュメント チームのメンバーによって確認されます 更新をパブリッシュする場合は、要求が受け入れられる[https://docs.microsoft.com/collaborate](https://docs.microsoft.com/collaborate) 必要があります。
 
 * の内部レビューで変更を確認できます[ https://review.docs.microsoft.com/collaborateportal](https://review.docs.microsoft.com/en-us/collaborate/?branch=master)します。
 
